@@ -4,14 +4,14 @@ _This Android Application works on official NASA API.
 You can select between 3 real NASA rovers and access all of their Mars footage._  
 
 ##### This project features: #####  
-__REST API__
+__REST API__  
 __Clean Architecture Aproach__  
-__Deoendency Injection__
-__Coroutines__
-__MVVM pattern__
-__Repository pattern__
-__Recycler View__
-__Complex custom menu buttons__
+__Deoendency Injection__  
+__Coroutines__  
+__MVVM pattern__  
+__Repository pattern__  
+__Recycler View__  
+__Complex custom menu buttons__  
 __Theme and styling to show off Mars and NASA vibes__  
 __Done by Material Guidelines__  
   
