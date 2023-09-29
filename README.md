@@ -7,6 +7,7 @@ You can select between 3 real NASA rovers and access all of their Mars footage._
 __REST API__
 __Clean Architecture Aproach__  
 __Deoendency Injection__
+__Coroutines__
 __MVVM pattern__
 __Repository pattern__
 __Recycler View__
